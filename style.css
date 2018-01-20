@@ -1,0 +1,36 @@
+body {
+	text-align: center;
+}
+
+header {
+	border: 3px solid #000000;
+	background-image: url("img/mountains-fog-green-beauty.jpg");
+	background-position: center;
+	background-size:cover;
+	color: white;
+}
+
+nav ul li {
+	list-style: none;
+}
+
+main h2{
+	text-style: italic;
+}
+
+#tupac-poem-img {
+	width: 250px;
+	height: 300px;
+}
+
+#shel-poem-img {
+	width: 130px;
+	height: 180px;
+}
+
+#rosario-poem-img {
+	width: 10%;
+	height: auto;
+}
+
+
